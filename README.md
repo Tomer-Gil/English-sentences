@@ -1,4 +1,4 @@
-# The zip file contains the .wav files for 60 sentences, which can be concatenated for forming a stream of sentences.
+# The zip file contains the .wav files for 60 sentences, which can be concatenated to form a stream of sentences.
  
 The sentences are:
  
