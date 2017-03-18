@@ -2,8 +2,8 @@
  
 The sentences are:
  
-fat rat sensed fear
-wood shelf holds cans
+fat rat sensed fear  
+wood shelf holds cans  
 tan girls drove trucks
 gold lamps shine light
 dry fur rubs skin
