@@ -2,10 +2,10 @@
  
 The sentences are:
  
-fat rat sensed fear  
-wood shelf holds cans  
-tan girls drove trucks
-gold lamps shine light
+fat rat sensed fear</br>
+wood shelf holds cans</br>  
+tan girls drove trucks</br>
+gold lamps shine light</br>
 dry fur rubs skin
 sly fox stole eggs
 top chefs cook steak
